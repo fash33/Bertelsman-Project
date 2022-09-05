@@ -1,6 +1,5 @@
-/* 
-Project 2
+## Project 2
 Image Classifier with Tensorflow
-*/
+
 
 
